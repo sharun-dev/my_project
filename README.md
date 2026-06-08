@@ -29,6 +29,6 @@ Recent BCA Graduate and passionate developer focused on building functional, rea
 
 ### 🎯 Current Goals
 * 💼 Actively seeking opportunities as a **Junior Software Engineer**, **Mobile Developer**, or **QA Tester**.
-* ⚡ Continuously improving my problem-solving skills and exploring backend architecture.
+* ⚡ Continuously improving my problem-solving skills 
 
-💬 **Let's connect!** Feel free to explore my repositories or reach out if you'd like to collaborate on a project.
+
