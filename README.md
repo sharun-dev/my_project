@@ -24,4 +24,5 @@ To run this project locally, ensure you have the Flutter SDK installed, then fol
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/sharun-dev/my_project.git)
+2.To run this project, clone the repository, open the folder in VS Code, execute flutter pub get in the terminal to fetch dependencies, select your device, and press F5 or run flutter run to launch the app
