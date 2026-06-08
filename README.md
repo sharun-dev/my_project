@@ -15,10 +15,3 @@ A cross-platform mobile application designed to connect professionals within the
 ## 📁 Project Structure
 The core application logic and UI components can be found in the `lib/` directory.
 
-## ⚙️ Setup and Installation
-
-To run this project locally, ensure you have the Flutter SDK installed, then follow these steps:
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
