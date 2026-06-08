@@ -6,7 +6,7 @@ Recent BCA Graduate and passionate developer focused on building functional, rea
 ### 🚀 What I Do
 * **Mobile Development:** Building cross-platform apps using Flutter & Dart.
 * **Backend & Databases:** Working with Firebase, Python, PHP, and MySQL.
-* **Core Strengths:** Object-Oriented Programming (OOPs), Data Structures, and Software Testing.
+* **Core Strengths:** Object-Oriented Programming (OOPs),Programmimg languages,Data Structures, and Software Testing.
 
 ---
 
