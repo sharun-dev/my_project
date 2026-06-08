@@ -31,4 +31,5 @@ Recent BCA Graduate and passionate developer focused on building functional, rea
 * 💼 Actively seeking opportunities as a **Junior Software Engineer**, **Mobile Developer**, or **QA Tester**.
 * ⚡ Continuously improving my problem-solving skills 
 
-
+### App working core video
+https://github.com/user-attachments/assets/92042e35-3e00-417b-a8ac-a97ea1477028
