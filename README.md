@@ -30,5 +30,5 @@ To run this project locally, ensure you have the Flutter SDK installed, then fol
 
 3.To launch the app, select your preferred target environment—either Web Localhost, an Android Studio Mobile Emulator, or a connected Real Android Mobile device—and press F5 or run flutter run in the terminal."
 
-
-
+###APP WORKING CORE VIDEO
+https://github.com/user-attachments/assets/92042e35-3e00-417b-a8ac-a97ea1477028
