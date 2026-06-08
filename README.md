@@ -18,12 +18,12 @@ Recent BCA Graduate and passionate developer focused on building functional, rea
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Project
 
 #### 🎬 Film Sphere (Major Project)
-* **Description:** A mobile application designed to bridge the gap in the film industry, helping actors, directors, and producers network and manage audition workflows.
-* **Tech Stack:** Flutter, Dart, Firebase
-* **Key Features:** User authentication, dynamic networking feeds, and database integration.
+* **Description:** A mobile application designed to bridge the gap in the film industry, helping actors, directors, producers,casting directors,editors etc network, book live events, and manage casting pipelines.
+* **Tech Stack:** Flutter, Dart, Firebase, Cloudinary
+* **Key Features:** User authentication, dynamic networking feeds, database integration and quick audition video/image uploads optimized via Cloudinary CDN.
 
 ---
 
